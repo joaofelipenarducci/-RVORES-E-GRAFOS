@@ -98,3 +98,9 @@ int main() {
 
     return 0;
 }
+
+// Análise dos resultados
+// Tanto no Bubble Sort quanto no Selection Sort, o tempo de execução aumentou conforme o tamanho do vetor aumentou
+// O número de comparações foi praticamente o mesmo nos dois algoritmos
+// Porém, o Bubble Sort realizou um número maior de movimentações em relação ao Selection Sort
+// Por esse motivo, o Selection Sort apresentou menor tempo de execução, sendo o mais eficiente nesta situação
